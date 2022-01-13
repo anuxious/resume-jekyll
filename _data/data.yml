@@ -6,7 +6,7 @@ fork: true
 contact:
   email: anoushkabhattacharyaa@gmail.com
   github: anoushkabhattacharya
-  linkedin: anoushkabhattacharya
+  linkedin: anoushka-bhattacharya
   phone: 
   gitlab: 
   twitter: bhanoushka
@@ -16,7 +16,7 @@ languages:
   - idiom: Bengali
   - idiom: Hindi
   - idiom: Spanish
-  - idiom: Odia, Assamese, Italian (Intermediate)
+#   - idiom: Odia, Assamese, Italian (Intermediate)
 
 # education:
 #   - degree: MSc in Informatics
@@ -27,28 +27,28 @@ languages:
 #     time: 2010-2014
 #     university: Ionian University
 
-skills:
+:
   - category: Programming languages
     skill: 
-      - Python
-      - JavaScript
-      - Typescript
-      - HTML, CSS/Sass
-      - PHP
-      - Kotlin
-      - Java
-      - Dart (Flutter)
-      - C++
+      - Python, JavaScript, TypeScript, HTML, CSS/Sass, PHP, Kotlin, Java, Dart, C++
+#       - JavaScript
+#       - Typescript
+#       - HTML, CSS/Sass
+#       - PHP
+#       - Kotlin
+#       - Java
+#       - Dart (Flutter)
+#       - C++
       
   - category: Frameworks and Libraries
     skill:
-      - React
-      - Vue
-      - Gatsby
-      - Node.js
-      - Express
-      - Django
-      - Flask
+      - jQuery, React, Vue, Node.js, Express, Django, Flask, OpenCV, Tensorflow, NumPy, Pandas, Jupyter
+#       - Vue
+#       - Gatsby
+#       - Node.js
+#       - Express
+#       - Django
+#       - Flask
       
   - category: Tools
     skill:
