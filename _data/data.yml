@@ -4,7 +4,7 @@ fork: true
 
 # Sidebar
 contact:
-  email: anoushka.bhattacharyaaa@gmail.com
+  email: anoushkabhattacharyaa@gmail.com
   github: anoushkabhattacharya
   linkedin: anoushkabhattacharya
   phone: 
@@ -16,26 +16,41 @@ languages:
   - idiom: Bengali
   - idiom: Hindi
   - idiom: Spanish
+  - idiom: Odia, Assamese, Italian (Intermediate)
 
-education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+# education:
+#   - degree: MSc in Informatics
+#     time: 2014-2016
+#     university: Ionian University
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+#   - degree: BSc in Computer Science
+#     time: 2010-2014
+#     university: Ionian University
 
 skills:
-  - category: Backend
+  - category: Programming languages
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Python
+      - JavaScript
+      - Typescript
+      - HTML, CSS/Sass
+      - PHP
+      - Kotlin
+      - Java
+      - Dart (Flutter)
+      - C++
+      
+  - category: Frameworks and Libraries
     skill:
       - React
-      - Typescript
-  - category: DevOps
+      - Vue
+      - Gatsby
+      - Node.js
+      - Express
+      - Django
+      - Flask
+      
+  - category: Tools
     skill:
       - Docker
       - Kubernetes 
