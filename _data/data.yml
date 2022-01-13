@@ -1,4 +1,4 @@
-name: Anoushka Bhattacharya
+name: Anoushka (she/her)
 support_dark_mode: true
 fork: true
 
@@ -27,7 +27,7 @@ languages:
 #     time: 2010-2014
 #     university: Ionian University
 
-:
+skills:
   - category: Programming languages
     skill: 
       - Python, JavaScript, TypeScript, HTML, CSS/Sass, PHP, Kotlin, Java, Dart, C++
@@ -50,10 +50,14 @@ languages:
 #       - Django
 #       - Flask
       
-  - category: Tools
+  - category: Tools and Platforms
     skill:
-      - Docker
-      - Kubernetes 
+      - Git, Netlify, Heroku, Vercel, Firebase, WordPress, SEO, OpenGL, MySQL
+#       - Kubernetes 
+
+ - category: Design
+    skill:
+      - Photoshop, Illustrator, Procreate, XD, Blender, Figma, Lightroom, Clip Studio
 
 # Profile
 profile: |
