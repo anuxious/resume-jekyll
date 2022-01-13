@@ -1,20 +1,21 @@
-name: John Doe
+name: Anoushka Bhattacharya
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: anoushka.bhattacharyaaa@gmail.com
+  github: anoushkabhattacharya
+  linkedin: anoushkabhattacharya
   phone: 
   gitlab: 
-  twitter: 
+  twitter: bhanoushka
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Bengali
+  - idiom: Hindi
+  - idiom: Spanish
 
 education:
   - degree: MSc in Informatics
