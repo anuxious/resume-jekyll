@@ -40,14 +40,35 @@ languages:
       - Dart (Flutter)
       - C++
       
+       - Python
+      - JavaScript
+      - HTML, CSS/Sass
+      - TypeScript
+      - Java
+      - Kotlin
+      - Dart (Flutter)
+      - PHP
+      - C++
+      
   - category: Frameworks and Libraries
     skill:
       - jQuery, React, Vue, Node.js, Express, Django, Flask, OpenCV, Tensorflow, NumPy, Pandas, Jupyter
+      - React
       - Vue
       - Gatsby
       - Node.js
       - Express
       - Django
+      - Node.js
+      - MongoDB
+      - MySQL
+      - Vue
+      - Express
+      - Gatsby
+      - Django
+      - Flask
+      - Numpy, Jupyter, Pandas
+      - Tensorflow
       - Flask
       
   - category: Tools
