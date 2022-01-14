@@ -1,4 +1,4 @@
-name: Anoushka Bhattacharya
+name: Anoushka (she/her)
 support_dark_mode: true
 fork: true
 
@@ -31,24 +31,24 @@ languages:
   - category: Programming languages
     skill: 
       - Python, JavaScript, TypeScript, HTML, CSS/Sass, PHP, Kotlin, Java, Dart, C++
-#       - JavaScript
-#       - Typescript
-#       - HTML, CSS/Sass
-#       - PHP
-#       - Kotlin
-#       - Java
-#       - Dart (Flutter)
-#       - C++
+      - JavaScript
+      - Typescript
+      - HTML, CSS/Sass
+      - PHP
+      - Kotlin
+      - Java
+      - Dart (Flutter)
+      - C++
       
   - category: Frameworks and Libraries
     skill:
       - jQuery, React, Vue, Node.js, Express, Django, Flask, OpenCV, Tensorflow, NumPy, Pandas, Jupyter
-#       - Vue
-#       - Gatsby
-#       - Node.js
-#       - Express
-#       - Django
-#       - Flask
+      - Vue
+      - Gatsby
+      - Node.js
+      - Express
+      - Django
+      - Flask
       
   - category: Tools
     skill:
